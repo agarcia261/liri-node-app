@@ -1,0 +1,73 @@
+
+######################### Concert Output ################################## 
+Name: Bowery Ballroom
+Location: New York, NY
+Country: United States
+Date: Thursday, December 13th 2018, 8:00:00 pm
+###########################################################################
+########################### Spotify Output 1 ############################### 
+Artist(s): Sing Strike Karaoke
+Song name: The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Album: The Sign (Karaoke Version) (Originally Performed By Ace Of Base)
+###########################################################################
+########################### Spotify Output 2 ############################### 
+Artist(s): Sing Fire Karaoke
+Song name: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Album: The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+###########################################################################
+########################### Spotify Output 5 ############################### 
+Artist(s): The Karaoke Crew
+Song name: The Sign (As Made Famous by Ace of Base)
+Album: Drew's Famous # 1 Karaoke Hits: Sing the Hits of 1994
+###########################################################################
+########################### Spotify Output 4 ############################### 
+Artist(s): The Karaoke Channel
+Song name: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+###########################################################################
+########################### Spotify Output 3 ############################### 
+Artist(s): Sing Strike Karaoke
+Song name: The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Album: Karaoke In Style Of Ace Of Base
+###########################################################################
+########################### Movie Output ##################################
+Title: Mr. Nobody
+Year: 2009Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+###########################################################################
+########################## Spotify Output 1 ############################### 
+Artist(s): Sing Strike Karaoke
+Song name: The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Album: The Sign (Karaoke Version) (Originally Performed By Ace Of Base)
+###########################################################################
+########################## Spotify Output 2 ############################### 
+Artist(s): Sing Fire Karaoke
+Song name: The Sign (Karaoke Version) - Originally Performed By Ace of Base
+Album: The Sign (Karaoke Version) (Originally Performed By Ace of Base)
+###########################################################################
+########################## Spotify Output 3 ############################### 
+Artist(s): Sing Strike Karaoke
+Song name: The Sign (Karaoke Version) - Originally Performed By Ace Of Base
+Album: Karaoke In Style Of Ace Of Base
+###########################################################################
+########################## Spotify Output 4 ############################### 
+Artist(s): The Karaoke Channel
+Song name: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Album: The Karaoke Channel - Sing the Sign Like Ace of Base
+###########################################################################
+########################## Spotify Output 5 ############################### 
+Artist(s): The Karaoke Crew
+Song name: The Sign (As Made Famous by Ace of Base)
+Album: Drew's Famous # 1 Karaoke Hits: Sing the Hits of 1994
+###########################################################################
+########################### Movie Output ##################################
+Title: Mr. Nobody
+Year: 2009Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+###########################################################################
