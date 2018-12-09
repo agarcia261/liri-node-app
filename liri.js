@@ -60,7 +60,7 @@ function concert(input){
 
     axios.get(queryUrl)
         .then(function (response) {
-            console.log("Hello there! here are the concerts that I found for "+artist+":");
+            console.log("Hello there! here are the concerts that I found for "+ artist + ":");
 
             for(var i=0; i<response.data.length; i++){
                 console.log("#############################################");
